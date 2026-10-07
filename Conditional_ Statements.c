@@ -1,7 +1,4 @@
 // Q5) Conditional Statements in C.
-
-
-
 #include <stdio.h>
 int main()
 {
