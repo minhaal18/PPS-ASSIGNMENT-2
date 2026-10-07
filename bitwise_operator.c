@@ -1,4 +1,4 @@
-// Q3) bitwise operators.
+// Q4) bitwise operators.
 #include <stdio.h>
 
 void calculate_the_maximum(int n, int k) {
